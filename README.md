@@ -37,7 +37,7 @@ Mobile / Phone views :
 ![Mobile 1](screenshots/127.0.0.1_5500.png)
 ![Mobile 2](screenshots/127.0.0.1_55001.png)
 ![Mobile 3](screenshots/127.0.0.1_55002.png)
-![Mobile 4](screenshots/127.0.0.1_55002.png)
+![Mobile 4](screenshots/127.0.0.1_55003.png)
 
 Notes about screenshots
 - The images in `screenshots/` are simple placeholders (SVG) included so the README demonstrates how screenshots will appear.
