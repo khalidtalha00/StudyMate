@@ -746,6 +746,7 @@ ul{
         align-self: center;
         justify-content: space-evenly;
     }
+   
 }
 
 @media screen and (max-width:850px) {
@@ -754,5 +755,20 @@ ul{
     }
     .footer-grid{
         grid-template-columns: repeat(2,1fr);
+        grid-gap:1rem;
+    }
+
+    .logo-link{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .logo-svg{
+        width: 2rem;
+        height: 3rem;
+    }
+
+    .filler-text{
+        margin-top: 1rem;
     }
 }

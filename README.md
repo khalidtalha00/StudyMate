@@ -31,6 +31,8 @@ Desktop views :
 ![Desktop 1](screenshots/Screenshot333.png)
 ![Desktop 2](screenshots/Screenshot334.png)
 ![Desktop 3](screenshots/Screenshot335.png)
+![Desktop 4](screenshots/Screenshot336.png)
+
 
 Mobile / Phone views :
 
